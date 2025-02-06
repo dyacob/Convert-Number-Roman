@@ -1,0 +1,9 @@
+Changes
+LICENSE
+MANIFEST
+Makefile.PL
+README
+examples/numbers.pl
+examples/roman.pl
+lib/Convert/Number/Roman.pm
+t/numbers.t
