@@ -1,9 +1,13 @@
+Build.PL
 Changes
+Changes.md
 LICENSE
 MANIFEST
-Makefile.PL
-README
+README.md
+SECURITY.md
 examples/numbers.pl
 examples/roman.pl
 lib/Convert/Number/Roman.pm
 t/numbers.t
+META.yml
+META.json

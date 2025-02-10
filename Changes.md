@@ -1,12 +1,14 @@
-0.03 Mon Feb 10 18:19:51 EST 2025
+# Revision History for the Convert::Number::Roman Perl Distribution
+
+## 0.03 Mon Feb 10 18:19:51 EST 2025
 	- Migration to a Build.PL & GitHub system.
 
-0.02 Sat Feb  1 23:21:25 EST 2025
+## 0.02 Sat Feb  1 23:21:25 EST 2025
 	- Fixes as per CPANTS:
 	  + LICENSE added.
 	  + packaged with GNU tar.
 	  + Added 'use warnings'.
 	  + Added a minimal Perl statement to META.yml
 
-0.01  Sun Jun 22 01:38:09 EDT 2003
+## 0.01  Sun Jun 22 01:38:09 EDT 2003
 	- Initial release.

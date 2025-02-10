@@ -9,7 +9,7 @@ BEGIN
 	use warnings;
 	use vars qw($VERSION %RomanDigits);
 
-	$VERSION = '0.02';
+	$VERSION = '0.03';
 
 	require 5.000;
 
