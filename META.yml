@@ -15,7 +15,7 @@ name: Convert-Number-Roman
 provides:
   Convert::Number::Roman:
     file: lib/Convert/Number/Roman.pm
-    version: '0.03'
+    version: '0.04'
 requires:
   perl: v5.8.0
 resources:
@@ -23,6 +23,6 @@ resources:
   homepage: https://github.com/dyacob/Convert-Number-Roman
   license: http://dev.perl.org/licenses/
   repository: https://github.com/dyacob/Convert-Number-Roman.git
-version: '0.03'
+version: '0.04'
 x_authority: cpan:dyacob
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'

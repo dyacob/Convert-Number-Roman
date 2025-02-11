@@ -1,5 +1,9 @@
 # Revision History for the Convert::Number::Roman Perl Distribution
 
+## 0.04 Mon Feb 10 20:36:39 EST 2025
+	- Fixes to markdown only.
+	- Adding CONTRIBUTING.md to MANIFEEST.
+
 ## 0.03 Mon Feb 10 18:19:51 EST 2025
 	- Migration to a Build.PL & GitHub system.
 
